@@ -24,3 +24,6 @@ Content-Type: application/json
     "body": "Hello, world!",
     "user_id": "181c83d5-db49-4c40-83cc-1fd22b612e18"
 }
+
+### 
+GET http://localhost:8080/api/chirps
