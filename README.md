@@ -4,7 +4,7 @@ A minimal but production-ready Go backend that provides authentication, user man
 
 ---
 
-## 🚀 Features (Brief)
+## 🚀 Features 
 
 * **User system**: register, login, update profile
 * **Authentication**:
